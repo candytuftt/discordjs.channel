@@ -1,7 +1,7 @@
 const Discord = require( 'discord.js' );
 const fs = require( 'fs' );
 const client = new Discord.Client();
-const token = "NDM3MjEwMzY3ODE5NTEzODU3.DcM10g.qlx8Ip4JUk_P8jtvoEjLazWZdQ0"; // トークンに置き換え
+const token = "トークンを";
  
  
  
